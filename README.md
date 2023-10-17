@@ -1,7 +1,7 @@
 # Vacuum_Sim
-AI Vacuum agent (Course work)
+AI Vacuum agent 
 
-In this project we design an AI program for a vacuum cleaner AI that is supposed to orient itself through a room and clean up all dirt while sensing and avoiding obstacles.
+In this project we design an AI program for a vacuum cleaner AI that orients itself through a room and clean up all dirt while sensing and avoiding obstacles.
 
 -- As the vacuum moves around in the room, it senses obstacles and dirt. It cannot trespass the obstacles, but it vacuumes the dirt.
 
